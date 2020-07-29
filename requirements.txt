@@ -1,6 +1,5 @@
 hyperspy
 ParticleSpy
-glob
 numpy
 matplotlib
 wget
