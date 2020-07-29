@@ -3,4 +3,3 @@ ParticleSpy
 numpy
 matplotlib
 wget
-zipfile
