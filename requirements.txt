@@ -4,3 +4,4 @@ numpy
 matplotlib
 wget
 scikit-image>=0.15, <=0.16
+pyqt5
